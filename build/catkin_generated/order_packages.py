@@ -1,0 +1,5 @@
+# generated from catkin/cmake/template/order_packages.context.py.in
+source_root_dir = '/home/jerry/ros_projects/Study/ur5_robot/src'
+whitelisted_packages = ''.split(';') if '' != '' else []
+blacklisted_packages = ''.split(';') if '' != '' else []
+underlay_workspaces = '/home/jerry/ros_projects/Study/ur5_robot/devel;/home/jerry/canopen/devel;/home/jerry/serial_imu_ws/devel;/home/jerry/carto/devel_isolated/cartographer_rviz;/home/jerry/carto/install_isolated;/home/jerry/xju-robot/devel;/home/jerry/robot_ws/devel;/home/jerry/xfspeech_ws/devel;/home/jerry/ws_kmdrobot/devel;/home/jerry/test/ws_kmdrobot/devel;/home/jerry/ws_myrobot/devel;/home/jerry/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/jerry/ros_projects/Study/ur5_robot/devel;/home/jerry/canopen/devel;/home/jerry/serial_imu_ws/devel;/home/jerry/carto/devel_isolated/cartographer_rviz;/home/jerry/carto/install_isolated;/home/jerry/xju-robot/devel;/home/jerry/robot_ws/devel;/home/jerry/xfspeech_ws/devel;/home/jerry/ws_kmdrobot/devel;/home/jerry/test/ws_kmdrobot/devel;/home/jerry/ws_myrobot/devel;/home/jerry/catkin_ws/devel;/opt/ros/noetic' != '' else []

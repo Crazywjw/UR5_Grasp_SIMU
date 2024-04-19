@@ -1,0 +1,8 @@
+prefix=/home/jerry/ros_projects/Study/ur5_robot/install
+
+Name: robotiq_3f_gripper_joint_state_publisher
+Description: Description of robotiq_3f_gripper_joint_state_publisher
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime robotiq_3f_gripper_control roscpp roslib sensor_msgs

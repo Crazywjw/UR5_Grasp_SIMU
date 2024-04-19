@@ -1,0 +1,8 @@
+prefix=/home/jerry/ros_projects/Study/ur5_robot/devel
+
+Name: ur_gazebo
+Description: Description of ur_gazebo
+Version: 1.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

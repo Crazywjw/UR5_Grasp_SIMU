@@ -1,0 +1,8 @@
+prefix=/home/jerry/ros_projects/Study/ur5_robot/devel
+
+Name: gazebo_version_helpers
+Description: Description of gazebo_version_helpers
+Version: 0.0.0
+Cflags: -I/home/jerry/ros_projects/Study/ur5_robot/src/gripper_breakdown_solution-master/gazebo_plugins/gazebo_version_helpers/include
+Libs: -L${prefix}/lib -lgazebo_version_helpers
+Requires: gazebo_ros roscpp
